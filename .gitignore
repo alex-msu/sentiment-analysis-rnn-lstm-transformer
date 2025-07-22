@@ -1,0 +1,30 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos y carpetas de Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Archivos de sistema / OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Salidas temporales / experimentales
+*.tmp
+*.bak
+*.swp
+*.old
+
+# Archivos de árbol o estructura
+tree.txt

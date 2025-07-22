@@ -1,0 +1,19 @@
+# Requisitos principales para RNN y LSTM
+tensorflow>=2.8
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+
+# Utilidades usadas en procesamiento
+nltk
+pyspellchecker
+tqdm
+
+# Requisitos para el notebook de Transformer (PyTorch)
+torch>=1.12
+
+# Solo si se usa en Jupyter Notebook directamente
+ipykernel
