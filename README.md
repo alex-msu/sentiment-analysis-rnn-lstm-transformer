@@ -104,21 +104,7 @@ Este proyecto está bajo la licencia MIT.
 
 ## 👤 Autor
 
-Desarrollado por \[Tu Nombre Aquí].
+Desarrollado por Alexis Martínez.
 Incluye aprendizaje profundo aplicado a NLP, análisis comparativo de modelos secuenciales y una exploración didáctica de la arquitectura Transformer.
 
 ```
-
----
-
-### ¿Qué cambió respecto a la versión anterior?
-
-✅ Separamos con claridad:
-- Qué modelos se comparan realmente (RNN vs LSTM)
-- Qué rol cumple el Transformer (educativo, no competitivo)
-
-✅ Eliminamos al Transformer de la tabla de resultados comparativos
-
-✅ Hicimos que la intención del proyecto quede inequívoca para quien lo lea en GitHub
-
----
