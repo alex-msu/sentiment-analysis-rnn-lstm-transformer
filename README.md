@@ -106,5 +106,3 @@ Este proyecto está bajo la licencia MIT.
 
 Desarrollado por Alexis Martínez.
 Incluye aprendizaje profundo aplicado a NLP, análisis comparativo de modelos secuenciales y una exploración didáctica de la arquitectura Transformer.
-
-```
